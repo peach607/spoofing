@@ -25,6 +25,7 @@ As for the required packages:
 * scipy
 * bisect
 * mystic
+* pot (for optimal transport)
 * plotly (for ploting otherwize replace with matplotlib or seaborn accordingly)
 
 
